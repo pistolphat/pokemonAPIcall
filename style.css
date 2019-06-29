@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+#result {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+h4 {
+  margin-bottom: 10px;
+}
+
+.box {
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
